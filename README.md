@@ -1,4 +1,15 @@
 # El gatoo
+## Description:
+### It is a multi-user chatting app that simulates the main Whatsapp functionalities:
+#### 1- Signing in/up
+#### 2- Adding contacts
+#### 3- Chatting with different users on different machines
+### The architecture of the app is built on the following CS concepts:
+#### 1- Graphical User Interface using Swing (For creating the visual (front end) part of the app)
+#### 2- Object Oriented Programming (For creating different objects that resemble the entities of the system)
+#### 3- Design patterns and SOLID principles (For designing maintainable, reusable, and extensible classes)
+#### 4- Database system (For handling accounts information and saving chat history)
+#### 5- Networking (For communicating between two contacts on different devices/ same device/ online server hosting)
 ## Testing:
 ### For testing the project functionalities on the same device, it is highly recommended to follow this guideline:
 #### 1-	Download the zip file and extract it
