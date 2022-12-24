@@ -10,6 +10,8 @@
 #### 3- Design patterns and SOLID principles (For designing maintainable, reusable, and extensible classes)
 #### 4- Database system (For handling accounts information and saving chat history)
 #### 5- Networking (For communicating between two contacts on different devices/ same device/ online server hosting)
+### Tools, Technologies and CS conecpts:
+#### Java - Swing - MySQL - Gradle - OOP - Design patterns - Xaamp - NetBeans
 ## Testing:
 ### For testing the project functionalities on the same device, it is highly recommended to follow this guideline:
 #### 1-	Download the zip file and extract it
