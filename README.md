@@ -35,3 +35,19 @@
 #### 1-	Changing the port number of Mysql service, by selecting config in the control panel of xaamp and choosing my.ini. inside the file update the port number (mostly 4306 works).
 #### 2-	Creating a new user and password on the phpMyAdmin page, by selecting users accounts form above and creating a new user
 #### 3-	Now you can replace 3306 in the url by 4306, and change the user and password to the new ones.
+## Screenshots:
+![Add Contact](https://user-images.githubusercontent.com/33010011/209451413-3ee3b424-362b-42c1-9e44-2d43457a0ad9.png)
+![Other User Info](https://user-images.githubusercontent.com/33010011/209451415-cc8c749d-0b1a-4f10-845c-d7f8db81d663.png)
+![Sample Chat 1](https://user-images.githubusercontent.com/33010011/209451421-19e51921-dcc6-4527-a66b-c50704f9fdfe.png)
+![Sample Chat 2](https://user-images.githubusercontent.com/33010011/209451427-9d112d1d-fa96-4a10-a8e8-fe98e18f2488.png)
+![SignIn page](https://user-images.githubusercontent.com/33010011/209451431-b03c2099-061f-46e8-84ad-f8d52deb2609.png)
+![SignUp page](https://user-images.githubusercontent.com/33010011/209451435-6378d512-5567-43e0-9bb7-e6cf97b4a081.png)
+![User Info](https://user-images.githubusercontent.com/33010011/209451437-54fac24d-cca9-4f9e-9b75-8773e638742b.png)
+![User Interface](https://user-images.githubusercontent.com/33010011/209451443-a34f341d-585f-4829-9716-1536c88be471.png)
+
+
+
+
+
+
+
