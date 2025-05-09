@@ -30,7 +30,7 @@
 
 ### For testing the project functionalities on the same device, it is highly recommended to follow this guideline:
 
- 1-	Download the zip file and extract it
+ 1-	Download the code folder
  
  2-	Download Netbeans from https://netbeans.apache.org/ and setup it
  
