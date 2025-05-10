@@ -15,12 +15,10 @@
  1- Graphical User Interface using Swing (For creating the visual (front end) part of the app)
  
  2- Object Oriented Programming (For creating different objects that resemble the entities of the system)
+  
+ 3- Database system (For handling accounts information and saving chat history)
  
- 3- Design patterns and SOLID principles (For designing maintainable, reusable, and extensible classes)
- 
- 4- Database system (For handling accounts information and saving chat history)
- 
- 5- Networking (For communicating between two contacts on different devices/ same device/ online server hosting)
+ 4- Networking (For communicating between two contacts on different devices/ same device/ online server hosting)
  
 ### Tools, Technologies and CS conecpts:
 
